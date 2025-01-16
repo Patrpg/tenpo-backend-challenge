@@ -206,6 +206,6 @@ docker-compose down
 - The rate limit works for each endpoint independently.
 
 - The image of this project is available on docker hub, to use it:
-sh```
-docker pull patrpg/tenpo-backend-challenge:latest
-```
+    ```sh
+    docker pull patrpg/tenpo-backend-challenge:latest
+    ```
